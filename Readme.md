@@ -2,7 +2,7 @@
 
 A functionality where user can give vote to the given set of candidates
 
-#Functionality:
+# Functionality:
 1) user sign in/sign up
 2) see the list of candidate
 3) vote one of the candidate, user can't vote again
